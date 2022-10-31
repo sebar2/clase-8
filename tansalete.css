@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#cuadrado{
+width: 100px;
+height: 100px;
+display: flex;
+background-color: red;
+transform: translateX(100px);
+transform: scale(2,1);
+}
