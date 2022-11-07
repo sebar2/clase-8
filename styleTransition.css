@@ -1,0 +1,17 @@
+*{
+    height: 100px;
+}
+html{
+    height: 100px;
+}
+div{
+    background-color: blue;
+    transition: background-color red 2s ;
+    /*propiedad de duracion*/
+}
+
+div:hover{
+    background-color: rgb(255, 94, 0) ;
+}
+
+
